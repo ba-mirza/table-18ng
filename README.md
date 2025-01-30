@@ -1,7 +1,4 @@
-# Project Documentation
-
-This project provides a dynamic, interactive table that allows users to perform various operations on data such as sorting, filtering, pagination, column visibility management, and more. Below is an overview of the features implemented:
-
+# Documentation
 ## Features
 
 | Feature                                      | Status  | Description                                                      |
